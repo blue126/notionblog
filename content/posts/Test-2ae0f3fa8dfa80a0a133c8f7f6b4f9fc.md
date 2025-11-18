@@ -1,7 +1,7 @@
 ---
-title: "New Post"
+title: "Test"
 date: "2025-11-17T05:14:00.000Z"
-lastmod: "2025-11-17T05:15:00.000Z"
+lastmod: "2025-11-17T05:17:00.000Z"
 draft: false
 featuredImage: "https://www.notion.so/images/page-cover/met_william_morris_1878.jpg"
 series: []
@@ -13,7 +13,7 @@ NOTION_METADATA:
   object: "page"
   id: "2ae0f3fa-8dfa-80a0-a133-c8f7f6b4f9fc"
   created_time: "2025-11-17T05:14:00.000Z"
-  last_edited_time: "2025-11-17T05:15:00.000Z"
+  last_edited_time: "2025-11-17T05:17:00.000Z"
   created_by:
     object: "user"
     id: "593bbe63-44c9-4271-86fa-e7855a940caa"
@@ -67,7 +67,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-11-17T05:15:00.000Z"
+      last_edited_time: "2025-11-17T05:17:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -78,7 +78,7 @@ NOTION_METADATA:
       title:
         - type: "text"
           text:
-            content: "New Post"
+            content: "Test"
             link: null
           annotations:
             bold: false
@@ -87,9 +87,9 @@ NOTION_METADATA:
             underline: false
             code: false
             color: "default"
-          plain_text: "New Post"
+          plain_text: "Test"
           href: null
-  url: "https://www.notion.so/New-Post-2ae0f3fa8dfa80a0a133c8f7f6b4f9fc"
+  url: "https://www.notion.so/Test-2ae0f3fa8dfa80a0a133c8f7f6b4f9fc"
   public_url: null
 MANAGED_BY_NOTION_HUGO: true
 

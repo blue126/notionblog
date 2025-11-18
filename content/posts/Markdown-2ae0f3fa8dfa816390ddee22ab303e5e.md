@@ -1,8 +1,8 @@
 ---
 title: "Markdown"
 date: "2025-11-17T00:47:00.000Z"
-lastmod: "2025-11-17T00:47:00.000Z"
-draft: false
+lastmod: "2025-11-17T07:19:00.000Z"
+draft: true
 featuredImage: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
 series: []
 authors: []
@@ -13,7 +13,7 @@ NOTION_METADATA:
   object: "page"
   id: "2ae0f3fa-8dfa-8163-90dd-ee22ab303e5e"
   created_time: "2025-11-17T00:47:00.000Z"
-  last_edited_time: "2025-11-17T00:47:00.000Z"
+  last_edited_time: "2025-11-17T07:19:00.000Z"
   created_by:
     object: "user"
     id: "593bbe63-44c9-4271-86fa-e7855a940caa"
@@ -39,7 +39,7 @@ NOTION_METADATA:
     draft:
       id: "JiWU"
       type: "checkbox"
-      checkbox: false
+      checkbox: true
     authors:
       id: "bK%3B%5B"
       type: "people"
@@ -74,7 +74,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-11-17T00:47:00.000Z"
+      last_edited_time: "2025-11-17T07:19:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -223,7 +223,7 @@ Hello !
 ### Internal
 
 
-![](https://notion-hugo.pages.dev/api?block_id=2ae0f3fa-8dfa-81f8-9fd2-f112dafb0ac6)
+![](https://willfan.me/api?block_id=2ae0f3fa-8dfa-81f8-9fd2-f112dafb0ac6)
 
 
 ### External
@@ -251,10 +251,10 @@ File
 
 
 <video controls style="height:auto;width:100%;">
-  <source src="https://notion-hugo.pages.dev/api?block_id=2ae0f3fa-8dfa-8153-abfa-de693303c3b2">
+  <source src="https://willfan.me/api?block_id=2ae0f3fa-8dfa-8153-abfa-de693303c3b2">
   <p>
     Your browser does not support HTML5 video. Here is a
-    <a href="https://notion-hugo.pages.dev/api?block_id=2ae0f3fa-8dfa-8153-abfa-de693303c3b2" download="https://notion-hugo.pages.dev/api?block_id=2ae0f3fa-8dfa-8153-abfa-de693303c3b2">link to the video</a> instead.
+    <a href="https://willfan.me/api?block_id=2ae0f3fa-8dfa-8153-abfa-de693303c3b2" download="https://willfan.me/api?block_id=2ae0f3fa-8dfa-8153-abfa-de693303c3b2">link to the video</a> instead.
   </p>
 </video>
 
@@ -271,7 +271,7 @@ YouTube
 ## Audio
 
 
-<audio controls src="https://notion-hugo.pages.dev/api?block_id=2ae0f3fa-8dfa-8127-a21a-ff82521e133f"></audio>
+<audio controls src="https://willfan.me/api?block_id=2ae0f3fa-8dfa-8127-a21a-ff82521e133f"></audio>
 
 
 ---
@@ -295,13 +295,13 @@ int main() {
 ## PDF
 
 
-<embed src="https://notion-hugo.pages.dev/api?block_id=2ae0f3fa-8dfa-8180-a3d9-fb7c6f72a460" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
+<embed src="https://willfan.me/api?block_id=2ae0f3fa-8dfa-8180-a3d9-fb7c6f72a460" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
 
 
 ## File
 
 
-[Living-Guide.pdf](https://notion-hugo.pages.dev/api?block_id=2ae0f3fa-8dfa-819c-a944-e7823c34bbc2)
+[Living-Guide.pdf](https://willfan.me/api?block_id=2ae0f3fa-8dfa-819c-a944-e7823c34bbc2)
 
 
 ---
